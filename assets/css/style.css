@@ -1,0 +1,14 @@
+body{
+    background-color: #042b5f;
+}
+
+.logo{
+    width: 120px;
+    display: inline-block;
+}
+
+.movieCard{
+    height: 500px;
+    overflow: hidden;
+    margin: 0;
+}
